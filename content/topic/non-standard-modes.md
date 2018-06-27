@@ -40,7 +40,7 @@ Key comabinations available in Multiple Line Selection Mode:
 | --------------------------- | ---------------------------------------- |
 | <kbd>gH</kbd>               | Enter Multiple Line Selection Mode       |
 | <kbd>j</kbd>                | Add selection down                       |
-| <kbd>k</kbd>                | Remove selection up                      |
+| <kbd>k</kbd>                | Add selection up                         |
 | <kbd>i</kbd>                | Enter Insert Mode                        |
 | <kbd>Esc</kbd>              | Enter Normal Mode                        |
 

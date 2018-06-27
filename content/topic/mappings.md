@@ -35,3 +35,14 @@ For example:
 The `six_is_accepting_input` context is generally necessary
 to avoid disrupting commands that expect input,
 like `c<motion>`, `/<input>`, etc.
+
+This is the complete list of contexts
+that you can use in *.sublime-keymap* files:
+
+| Context | Description  |
+| ------- | ------------ |
+| `six_is_in_command_mode` | `true` if Six is in normal or any visual mode |
+| `six_is_in_insert_mode` | `true` if Six is in insert mode |
+| `six_is_in_multiple_selection_mode` | `true` if Six is in multiple selection mode |
+| `six_is_accepting_input` | `true` if Six is currently accepting command input |
+| `six_enable_ctrl_keys` | `true` if the `enable_ctrl_keys` setting is `true` |

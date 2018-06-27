@@ -9,7 +9,7 @@ select **Preferences: Six Settings** from Sublime Text's command palette.
 Two files will open side by side.
 You can check the meaning of individual settings
 in the file on the left-hand side,
-but only edit settings in the file on the right-hand side.
+but do only edit settings in the file on the right-hand side.
 
 {{% block note %}}
 Only settings stored in the *User/Six.sublime-settings* file
