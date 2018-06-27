@@ -15,15 +15,15 @@ based on the word under the caret.
 
 Key comabinations available in Multiple Selection Mode:
 
-| Command         | Action                                   |
-|-----------------|----------------------------------------- |
-| <kbd>gh</kbd>   | Enter Multiple Selection Mode            |
-| <kbd>j</kbd>    | Add selection                            |
-| <kbd>k</kbd>    | Remove selection                         |
-| <kbd>l</kbd>    | Skip selection                           |
-| <kbd>J</kbd>    | Add all selections                       |
-| <kbd>i</kbd>    | Enter Insert Mode                        |
-| <kbd>Esc</kbd>  | Enter Normal Mode                        |
+| Command                     | Action                                   |
+| --------------------------- | ---------------------------------------- |
+| <kbd>gh</kbd>               | Enter Multiple Selection Mode            |
+| <kbd>j</kbd>                | Add selection                            |
+| <kbd>k</kbd>                | Remove selection                         |
+| <kbd>l</kbd>                | Skip selection                           |
+| <kbd>J</kbd>                | Add all selections                       |
+| <kbd>i</kbd>                | Enter Insert Mode                        |
+| <kbd>Esc</kbd>              | Enter Normal Mode                        |
 
 You cannot operate on text while in Multile Selection Mode.
 Before operating on text,
@@ -36,13 +36,13 @@ you can add lines.
 
 Key comabinations available in Multiple Line Selection Mode:
 
-| Command         | Action                                   |
-|-----------------|----------------------------------------- |
-| <kbd>gH</kbd>   | Enter Multiple Line Selection Mode       |
-| <kbd>j</kbd>    | Add selection down                       |
-| <kbd>k</kbd>    | Remove selection up                      |
-| <kbd>i</kbd>    | Enter Insert Mode                        |
-| <kbd>Esc</kbd>  | Enter Normal Mode                        |
+| Command                     | Action                                   |
+| --------------------------- | ---------------------------------------- |
+| <kbd>gH</kbd>               | Enter Multiple Line Selection Mode       |
+| <kbd>j</kbd>                | Add selection down                       |
+| <kbd>k</kbd>                | Remove selection up                      |
+| <kbd>i</kbd>                | Enter Insert Mode                        |
+| <kbd>Esc</kbd>              | Enter Normal Mode                        |
 
 You cannot operate on text while in Multile Line Selection Mode.
 Before operating on text,
