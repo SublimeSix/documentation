@@ -5,7 +5,8 @@ draft: true
 weight: 1000
 ---
 
-Sublime Six (or simply *Six*) is implemented as a Python plugin.
+Sublime Six (or 'Six' for short) is implemented as a Python plugin
+without any external dependencies.
 
 The easiest way to install Six
 is through [Package Control](https://packagecontrol.io/),
