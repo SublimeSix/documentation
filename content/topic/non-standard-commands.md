@@ -6,7 +6,9 @@ draft: true
 
 List of Six commands that are not standard Vim commands:
 
-| Command            | Description         |
-| ------------------ | ------------------- |
-| `ctrl+j`           | down (autocomplete list) |
-| `ctrl+k`           | up (autocomplete list) |
+| Command            | Context             | Description                            |
+| ------------------ | ------------------- | -------------------------------------- |
+| `ctrl+j`           | autocomplete list   | next item                              |
+| `ctrl+k`           | autocompoete list   | previous item                          |
+| `ctrl+q`           | normal mode         | open Go To Symbol                      |
+| `ctrl+shift+q`     | normal mode         | open Go To Symbol in Project           |

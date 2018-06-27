@@ -5,6 +5,6 @@ draft: true
 ---
 
 Six uses
-the same regular expressions' engine for searches as Sublime Text.
+the same regular expressions' engine and synxtax for searches as Sublime Text.
 
 The Vim regexp language is currently not supported.
