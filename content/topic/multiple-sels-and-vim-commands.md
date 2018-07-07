@@ -1,5 +1,5 @@
 ---
-title: "Miscelaneous"
+title: "Miscellaneous"
 date: 2018-06-26T18:55:05+02:00
 draft: true
 weight: 7000
