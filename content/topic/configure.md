@@ -1,7 +1,7 @@
 ---
 title: "Settings and Configuration"
 date: 2018-06-25T19:38:49+02:00
-draft: true
+draft: false
 weight: 4000
 ---
 

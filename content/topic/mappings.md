@@ -1,7 +1,7 @@
 ---
 title: "Mappings"
 date: 2018-06-27T07:08:13+02:00
-draft: true
+draft: false
 weight: 5000
 ---
 

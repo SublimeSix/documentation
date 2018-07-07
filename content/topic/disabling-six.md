@@ -1,7 +1,7 @@
 ---
 title: "Disabling Six for Selected Views"
 date: 2018-06-27T07:42:21+02:00
-draft: true
+draft: false
 weight: 2000
 ---
 

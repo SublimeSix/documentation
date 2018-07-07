@@ -1,7 +1,7 @@
 ---
 title: "Installation"
 date: 2018-06-25T18:50:09+02:00
-draft: true
+draft: false
 weight: 1000
 ---
 

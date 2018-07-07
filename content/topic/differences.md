@@ -1,7 +1,7 @@
 ---
 title: "Differences with Vim"
 date: 2018-06-25T19:52:32+02:00
-draft: true
+draft: false
 weight: 3000
 ---
 

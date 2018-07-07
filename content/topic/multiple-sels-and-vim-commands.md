@@ -1,7 +1,7 @@
 ---
 title: "Miscellaneous"
 date: 2018-06-26T18:55:05+02:00
-draft: true
+draft: false
 weight: 7000
 ---
 
