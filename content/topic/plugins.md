@@ -1,7 +1,8 @@
 ---
-title: "Plug-ins"
+title: "Extending Six"
 date: 2018-06-25T19:49:20+02:00
 draft: true
+weight: 6000
 ---
 
 Six experimentally supports
